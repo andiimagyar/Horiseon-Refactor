@@ -2,5 +2,6 @@
 
 ## Horiseon Landing Page 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Screen-shot] (./assets/images/screenshot.jpg)
+
+https://andiimagyar.github.io/Horiseon-Refactor/
